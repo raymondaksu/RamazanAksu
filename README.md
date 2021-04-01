@@ -25,4 +25,6 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 - 💬 Ask me about anything that you want to learn
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=raymondaksu&show_icons=true&theme=tokyonight" align="center">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=raymondaksu&show_icons=true&theme=tokyonight" align="center" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondaksu&theme=cobalt&layout=compact" align="left" height="200" alt="languages">
+<div>
