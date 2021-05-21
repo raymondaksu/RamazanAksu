@@ -11,12 +11,12 @@
 
 ### What I'm using? 🛠
 
-I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
+I prefer React & React Native for web/mobile front-end, Django for back-end development.
 <br/>
 
 🔭 I’m currently working on back-end development
 
-🌱 I’m currently learning Node.js | MongoDB | Django
+🌱 I’m currently learning Django | PostgreSql | MongoDB
 
 🛠 Skills<br/>
 
