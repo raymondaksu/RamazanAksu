@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Full Stack Developer...
 
-<img src="https://media1.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" alt="react-native" width=200 height=150 align="right">
+<img src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/django-logo.gif" alt="django" width=230 height=130 align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondaksu" alt="RamazanAksu" /> </p>
 
