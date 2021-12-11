@@ -11,16 +11,14 @@
 
 ### What I'm using? 🛠
 
-I prefer React & React Native for web/mobile front-end, Django for back-end development.
+Python/Django and Go for back-end development.
 <br/>
 
-🔭 I’m currently working on back-end development
-
-🌱 I’m currently learning Django | PostgreSql | MongoDB
+🔭 I’m currently working on back-end development.
 
 🛠 Skills<br/>
 
-- HTML5, CSS3, JavaScript, React, React Native, Python, SQL, Node.js, Express.js, MongoDB, Django, Git, GitHub
+- HTML5, CSS3, JavaScript, React, Python, Go, Node.js, Express.js, MongoDB, Django, Git, GitHub, Gitlab
 
 - 💬 Ask me about anything that you want to learn
 
