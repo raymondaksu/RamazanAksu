@@ -18,7 +18,7 @@ Python/Django and Go for back-end development.
 
 🛠 Skills<br/>
 
-- HTML5, CSS3, JavaScript, React, Python, Go, PostgreSql, MongoDB, Django, Git, GitHub, Gitlab, Heroku, AWS(EC2, S3, Route53)
+- HTML5, CSS3, JavaScript, React, Python, Go, PostgreSql, MongoDB, Django, Git, GitHub, Gitlab, Heroku, AWS(EC2, S3, Route53, CloudWatch, SES), DO Services, Grafana and Prometheus
 
 - 💬 Ask me about anything that you want to learn
 
